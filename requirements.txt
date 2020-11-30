@@ -1,0 +1,4 @@
+autopep8==1.5.4
+azure-cognitiveservices-speech==1.14.0
+pycodestyle==2.6.0
+toml==0.10.2
